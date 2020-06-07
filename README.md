@@ -16,18 +16,33 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The resultes were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
-  - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+  - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge overview
+1. Determine number of votes that were cast from each county.
+2. Determine precentage of votes each county contributed to the election.
+3. Use "for" loops and conditional statements to calculate voter turnout for each county as well as percentage of votes each county contributed to the election.
 
 ## Challenge summary
+The analysis of the election show that:
+- There were 369,711 votes cast in the election.
+- The counties were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+ - The results were:
+  - Jefferson received 10.5% of vote and 38,855 number of votes.
+  - Denver received 82.8% of vote and 360,892 number of votes.
+  - Arapahoe received 6.7% of vote and 24,801 number of votes.
+ - The winning county of the election was:
+  - Denver, which received 82.8% of the vote and 306,055 number of votes.
